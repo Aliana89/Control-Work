@@ -5,15 +5,18 @@
 коллекциями, лучше обойтись исключительно массивами*/
 
 // Создаем исходный массив из строк
-string[] strings = new string[] { "1234", "1567", "-2", "computer science",
-                                              "Hello", "2", "world", ":-)",
-                                              "Russia", "Denmark", "Kazan" };
+string[] strings = new string[] { "1234", "1567", "-2", "computer science"};
 // Вызываем метод для формирования нового массива
 string[] newStrings = NewArrayLessOrEqualToThreeChars(strings);
-
-// Выводим новый массив на экран
-Console.WriteLine(string.Join(", ", newStrings));
-
+//Печатаем исходный массив 
+Console.Write("[");
+Console.Write(string.Join("," ,strings));
+Console.Write("]");
+Console.Write("->");
+//Печатаем новый массив
+Console.Write("[");
+Console.Write(string.Join($"{","}",newStrings));
+Console.Write("]");
 
 string[] NewArrayLessOrEqualToThreeChars(string[] strings)
 {
@@ -47,4 +50,3 @@ string[] NewArrayLessOrEqualToThreeChars(string[] strings)
 
     return newStrings;
 }
-
