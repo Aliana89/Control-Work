@@ -17,3 +17,10 @@
 
 ![Image](%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio.png)
 
+# [Блок-схема](https://github.com/Aliana89/Control-Work/blob/main/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio.png)
+
+![Image](%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio.png)
+
+
+# [Commits:](!%5BCommits%5D%28https://github.com/Aliana89/Control-Work/blob/main/Commits.drawio.png?raw=true%29)
+### https://github.com/Aliana89/Control-Work/blob/main/Commits.drawio.png?raw=true
