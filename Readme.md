@@ -18,7 +18,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
-(https://github.com/Aliana89/Control-Work/tree/main/Control_Work)
+
 #  [Описание программы](https://github.com/Aliana89/Control-Work/tree/main/Control_Work)
 1. Создаем исходный массив строк. В данном случае, массив `strings` задается заранее с помощью оператора `new string[] {...}.`
 2. Создаем метод `NewArrayLessOrEqualToThreeChars ` , который принимает массив строк и возвращает новый массив строк.
